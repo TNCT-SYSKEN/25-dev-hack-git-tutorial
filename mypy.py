@@ -1,4 +1,4 @@
-printf("Hello World!\n");
+printf("こんにちは世界\n");
 printf("Welcome to mypy.\n");
 printf("This is a simple example of a C program.\n");
 printf("You can use this as a starting point for your own C programs.\n");
