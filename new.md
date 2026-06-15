@@ -6,4 +6,6 @@ a
 a
 a
 HEEEEEEEEEEEEEEE
-printf\n                                                                                                       
+printf\n
+あいうえお
+                                                                                                       
